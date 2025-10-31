@@ -30,3 +30,6 @@ The following files have been used for the paper *Prediction of Arrival Runway O
 - **polygon_plot.ipynb** – Visualization of runway and taxiway polygons at Zurich Airport.  
 - **stand_plot.ipynb** – Visualization of stand polygons at Zurich Airport.
 
+## Notes
+
+- The final dataset and code contain additional features that were not used for the final prediction models.
