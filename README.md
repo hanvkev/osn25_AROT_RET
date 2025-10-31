@@ -1,6 +1,6 @@
 # AROT and RET Prediction Code
 
-The following files have been used for the paper *Predicting Arrival Runway Occupancy Time and Rapid Exit Taxiway Selection from OpenSky Data* presented at the **13th OpenSky Network Symposium** in Norrköping, Sweden, November 6–7, 2025.
+The following files have been used for the paper *Prediction of Arrival Runway Occupancy Time and Exit Taxiway Using ADS-B Trajectories* presented at the **13th OpenSky Network Symposium** in Norrköping, Sweden, November 6–7, 2025.
 
 ## Files
 
