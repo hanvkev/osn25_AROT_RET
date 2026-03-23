@@ -13,6 +13,12 @@ The following files have been used for the paper *Prediction of Arrival Runway O
 - **Combined_Prediction_Model.ipynb**  
   Trains and evaluates the RET prediction model and the AROT prediction model.
 
+- **RET_Baseline_Model.ipynb**  
+  Trains and evaluates a naive baseline model for RET prediction.
+
+- **AROT_1_Input_Model.ipynb**  
+  Trains and evaluates a single-input AROT prediction model without trajectory snippets.
+
 - **Final_Table.csv**  
   Dataset generated after running `Data_Collection.ipynb`.
 
